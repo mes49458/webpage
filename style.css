@@ -1,0 +1,58 @@
+h1{
+	font-size: 50pt;
+	text-align: center;
+	color: #7c7c75;
+	padding-top: 10px;
+}
+
+h2
+{
+	font-size: 28pt;
+	text-indent: 40px;
+	color: #7c7c75;
+}
+
+p
+{
+	font-size: 16pt;
+	color: #7c7c75;
+}
+h4
+{
+	text-align: center;
+	color: #7c7c75;
+}
+
+img
+{
+	display: block;
+    margin: 0 auto;
+}
+body{
+	color: white;
+	font-family: "Tahoma";
+}
+table{
+	color: #7c7c75;
+	margin: auto;
+}
+
+.side{
+	float:left;
+}
+
+#wrapper
+{
+	border-radius: 10px;
+	background-color: #fffa9b;
+	width: 85%;
+	margin:auto;
+
+}
+
+#content
+{
+	margin: auto;
+	width: 70%;
+}
+
